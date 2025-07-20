@@ -31,6 +31,3 @@ A Direct2D-based recreation of *Brotato*. Emphasizes UI, gameplay mechanics, and
 
 ---
 
-## 📫 Get in Touch
-Feel free to connect with me, check out my code, or collaborate on future game projects!
-
